@@ -2,6 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
+  "homepage" : "https://romain32190.github.io/Todolist-React/",
   "dependencies": {
     "gulp": "^3.9.1",
     "node-uuid": "^1.4.8",
